@@ -2,12 +2,12 @@
 
 Official implementation of **"Doubly-Regressing Approach for Subgroup Fairness"** (ICLR 2026).
 
-[[Paper]](https://openreview.net/forum?id=17UDRTRLmp) [[arXiv]](https://arxiv.org/abs/2510.21091) [[Poster]](https://iclr.cc/virtual/2026/poster/10011861)
+[[Paper]](https://openreview.net/forum?id=17UDRTRLmp) [[arXiv]](https://arxiv.org/abs/2510.21091)
 
 ## Installation
 
 ```bash
-git clone https://github.com/subgroup-fair/main.git
+git clone https://github.com/subgroup-fair/draf.git
 cd main
 pip install -r requirements.txt
 ```
